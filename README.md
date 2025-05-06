@@ -8,4 +8,4 @@ with this project, i intend to mimic this; using an initial "perception" layer w
 ### personal motivations
 i would really like to learn more about how robust neural nets are built; gaining intuition for the number of layers, the types of layers, and important pre-processing of training data. 
 
-this is inspired by the work done here: [[https://distill.pub/2020/growing-ca/|Growing Neural Cellular Automata]]
+this is inspired by the work done here: [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)
